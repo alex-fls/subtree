@@ -1,7 +1,7 @@
 this is the common file for project
 try to build subtree from common
 I am using this common file from subtresadadasde
-This was a bug
+I want to write here
 asdadasdasda
 
 
